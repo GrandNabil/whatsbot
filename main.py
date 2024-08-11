@@ -8,7 +8,8 @@ response = MessagingResponse()
 msg = response.message()
 msg.body("c'est une réponse de l'assistant virtuel.")
 
-def bot()
+
+def bot():
 
     user_msg = request.values.get('Body', '').lower()
 
