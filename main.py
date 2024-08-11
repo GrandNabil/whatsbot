@@ -15,3 +15,7 @@ def bot():
 
     response = MessagingResponse()
 
+    q = user_msg + "akambinabil@outlook.com"
+
+    result = []
+
